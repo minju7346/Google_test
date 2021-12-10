@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\minju\Desktop\DWS\DWS_Error\Debug\DWS_Error_Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="CheckAlarmTestSuite.CheckAlarmTest1" Duration="1" />
+    <TestDuration Test="CheckAlarmTestSuite.CheckAlarmTest2" Duration="1" />
+    <TestDuration Test="CheckAlarmTestSuite.CheckAlarmTest3" Duration="1" />
+    <TestDuration Test="CheckAlarmTestSuite.CheckAlarmTest4" Duration="1" />
+    <TestDuration Test="LightControlTestSuite.LightOnTest" Duration="1" />
+    <TestDuration Test="LightControlTestSuite.LightOffTest" Duration="361" />
+    <TestDuration Test="DisplayControlTestSuite.LapTimeResetTest" Duration="1" />
+    <TestDuration Test="DisplayControlTestSuite.StopwatchResetTest" Duration="1" />
+    <TestDuration Test="StopwatchResetTestSuite.StopwatchResetTest" Duration="1" />
+    <TestDuration Test="LapTimeResetTestSuite.LapTimeResetTest" Duration="1" />
+    <TestDuration Test="InitALSwitchSectionTestSuite.InitALSwitchSectionTest" Duration="1" />
+    <TestDuration Test="SwitchSectionAlarmTestSuite.SwitchSectionAlarmTest" Duration="1" />
+    <TestDuration Test="AlarmIndicatorTestSuite.AlarmIndicatorTest1" Duration="1" />
+    <TestDuration Test="AlarmIndicatorTestSuite.AlarmIndicatorTest2" Duration="1" />
+    <TestDuration Test="IncreaseAlarmValueTestSuite.IncreaseAlarmValueTest1" Duration="1" />
+    <TestDuration Test="IncreaseAlarmValueTestSuite.IncreaseAlarmValueTest2" Duration="1" />
+    <TestDuration Test="IncreaseAlarmValueTestSuite.IncreaseAlarmValueTest3" Duration="1" />
+    <TestDuration Test="IncreaseAlarmValueTestSuite.IncreaseAlarmValueTest4" Duration="1" />
+    <TestDuration Test="SwitchSectionTestSuite.SwitchSectionTest" Duration="1" />
+    <TestDuration Test="IncreaseCurrentTimeTestSuite.IncreaseCurrentTimeTest" Duration="1" />
+    <TestDuration Test="IncreaseCurrentTimeTestSuite.IncreaseCurrentTimeTest1" Duration="1" />
+    <TestDuration Test="IncreaseCurrentTimeTestSuite.IncreaseCurrentTimeTest2" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

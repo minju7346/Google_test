@@ -1,0 +1,4 @@
+﻿  AlarmControlTest.cpp
+LightControlTest.obj : error LNK2005: main이(가) AlarmControlTest.obj에 이미 정의되어 있습니다.
+LightControlTest.obj : error LNK2019: "void __cdecl SetColor(int,int)" (?SetColor@@YAXHH@Z)"void __cdecl LightControl(int,struct ModeCondition *,struct AlarmInformation *)" (?LightControl@@YAXHPEAUModeCondition@@PEAUAlarmInformation@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\minju\Desktop\DWS\DWS_Error\x64\Debug\DWS_Error_Test.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
